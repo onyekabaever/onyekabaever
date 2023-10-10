@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Onyekaba Everistus</h1>
 <h3 align="center">A unique data scientist and website developer(PHP)</h3>
 
-- 🔭 I’m currently working on **building up my Github profile with data**
+- 🔭 I’m currently  **building my Github profile with data**
 
-- 🌱 I’m currently learning **Machine learning and advanced python**
+- 🌱 I’m a  **Machine learning engineer**
 
 - 👯 I’m looking to collaborate on **any present data science project**
 
