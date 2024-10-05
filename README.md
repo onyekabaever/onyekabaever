@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Onyekaba Everistus</h1>
 <h3 align="center">Software Engineer(Fullstack & Machine Learning) and Data Scientist</h3>
 
+
+- 🔭 Backend development using  **Python Django**
+- 🔭 Frontend development **React Nextjs**
+- 🔭 Good in  **Machine learning & Data Science**
+- 🌱 I’m currently learning **blockchain development**
 - 📫 How to reach me **onyekabaeveristus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
