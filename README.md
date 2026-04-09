@@ -5,7 +5,6 @@
 - 🔭 Backend development using  **Python Django**
 - 🔭 Frontend development **React Nextjs**
 - 🔭 Good at  **Machine learning & Data Science**
-- 🌱 I’m currently learning **blockchain development**
 - 📫 How to reach me **onyekabaeveristus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
